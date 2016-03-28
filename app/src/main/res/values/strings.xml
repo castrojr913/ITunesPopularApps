@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GravityApp</string>
+
+    <!-- Messages (General Purpose) -->
+    <string name="error_connectivity">
+        <![CDATA[There was an error in regard to network status:\n
+        1. Check Wifi / Data ports. Try turning them off and turning them on again.\n
+        2. It may be a trouble with the Service Provider or Network Manager.]]>
+    </string>
+    <string name="error_timeout">The server doesn\'t answer straight away so far, please try later again.</string>
+    <string name="error_webservice">There was an unknown issue. Please, try later again and it still persists, inform the trouble to the support team.</string>
+
+    <!-- Drawer Activity -->
+    <string name="activity_drawer_item_catalog">Catalog</string>
+    <string name="activity_drawer_item_exit">Exit</string>
+
+    <!-- Catalog Fragment -->
+    <string name="fragment_catalog_progress_getting_apps">Getting apps &#8230;</string>
+    <string name="fragment_catalog_no_items">There are no apps to show</string>
+
+
+</resources>

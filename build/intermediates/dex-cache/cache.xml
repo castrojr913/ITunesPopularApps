@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf42202c36a191ce6ee084d5160d72d831b9acb6">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-d3a486bff2eebfbcfb8437b15422c575fcd7b667.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-ff0c746297d9559af5071b2df2610853583c0874.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\4.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1206e4db22600d01a6de5c6569b04bf3296ce6de">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-41de1526b5877a6946b74fbe6c2d82249a344b68.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\1.7.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea05949390565bd6d714ac7d99158b3c0bc6a175">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-64d2f20f8ba1620e25c71d31f12c1893f835f196.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-fb0fbd28a9b16fb1227c6553fc2316a13abb300f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jesus\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\okio-1.6.0-d020377a78381015b0cf73c9a63c9823e75743e8.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.jakewharton.timber\timber\4.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f45a0143e9c43a459f3f331a6b3e7daf13981ef4">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-4012960c857f5b263cc2fb7b3e45322160886c44.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jesus\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-efcd5b069d7d77a67da3d91aef412f68f1b9aa9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jesus\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\library-2.4.0-fcc7e2c4ada8f0803c340ffe277284b3ba736759.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jesus\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.2\7d6149d856b880bbd676047aacb8446a758fbbdb\androidannotations-api-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.2-5c21897b60f6b1c6383f499ba58afea7a7b44143.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.2.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3e33417d80e79d82adb03a964540362d4e2ca5ef">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-55325d5b1cb62516267cfde3ed1bd4d2a80d4e84.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jesus\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\gson-2.4-267601414cd3b44aea87eee9a16698d6662a82c0.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="12b228574de7977e56e41cbfb385b1463bbdb41a">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-9e7be2fb33fb4f8ebe26c7e8ecafaa822df3b355.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-4029d753c93ff7a343f260cb5be1c7db92ffeb1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jesus\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-dc5fffe0ff61afd281b7df8dbce3ff35c5431797.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jesus\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-457d58aeb19c38dc6beb28fe8d824854c68179c1.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-94672b6d5f48bc401c38d70f20896d610bc1c301.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-e9097c27f8e3e9266521ee0ad811bfdfdbd75c4e.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-b7d83154848136f60508dd41fa1d77c5c4db3ab7.jar" />
+    </item>
+    <item
+        jar="E:\PROYECTOS\Android\Gravity\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="E:\PROYECTOS\Android\Gravity\app\build\intermediates\pre-dexed\debug\classes-33d24a508419dbc528c38f04bd49d6fabadb1a03.jar" />
+    </item>
+
+</items>
